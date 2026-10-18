@@ -1,0 +1,25 @@
+# Java compiled files
+*.class
+
+# VS Code settings
+.vscode/
+
+# Java build output
+bin/
+out/
+build/
+
+# Embedded Derby database files
+railwayDB/
+derby.log
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# Operating system files
+.DS_Store
+Thumbs.db
